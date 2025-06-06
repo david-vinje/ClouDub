@@ -10,9 +10,9 @@ For at køre lokalt: `pnpm dev`
 
 * `/app` indeholder ruter, komponenter og logik til applikationen
 
-  * `/app/lib` indeholder hjælperfunktioner o.l.
+  * `/lib` indeholder hjælperfunktioner o.l.
 
-  * `/app/ui/` indeholder UI komponenter 
+  * `/ui/` indeholder UI komponenter 
 
 * `/public` indeholder statiske assets såsom billeder
 
