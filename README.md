@@ -2,9 +2,7 @@
 
 https://www.figma.com/design/v4nnQdimqyJt2Y2oqyhanl/ClouDub?node-id=0-1&p=f&t=rT543dJl6V6ioE8m-0
 
-## Kom i gang
-
-For at køre lokalt:
+## Kør lokalt
 
 `pnpm dev`
 
