@@ -4,7 +4,7 @@ https://www.figma.com/design/v4nnQdimqyJt2Y2oqyhanl/ClouDub?node-id=0-1&p=f&t=rT
 
 ## Kom i gang
 
-Kør lokalt `pnpm dev`
+For at køre lokalt: `pnpm dev`
 
 ## Mappestrukturen
 
