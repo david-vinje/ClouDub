@@ -1,2 +1,2 @@
 # cloudub
-Cloub Dub Studios A/S
+ClouDub Studios A/S
