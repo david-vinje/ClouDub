@@ -16,7 +16,9 @@ For at køre lokalt: `pnpm dev`
 
 `/app` indeholder ruter, komponenter og logik til applikationen
 
-`/app/lib` indeholder hjælperfunktioner o.l.
+`/app/ui` indeholder fælleskomponenter
+
+`/app/lib` indeholder hjælperfunktioner og fælleslogik
 
 `/public` indeholder statiske assets såsom billeder og favicon.ico
 
