@@ -1,12 +1,16 @@
-## ClouDub Studios
-
+## ClouDub Studios 🎙️☁️
+ 
 https://www.figma.com/design/v4nnQdimqyJt2Y2oqyhanl/ClouDub?node-id=0-1&p=f&t=rT543dJl6V6ioE8m-0
 
-## Kom i gang
+## Next.js (SLADESH 🙅‍♂️)
+
+https://youtu.be/O8ivm7403rk?si=55nsaDa_lvKEjFWI
+
+## Kom i gang 💻
 
 For at køre lokalt: `pnpm dev`
 
-## Mappestrukturen
+## Mappestrukturen 📁
 
 * `/app` indeholder ruter, komponenter og logik til applikationen
 
