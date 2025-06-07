@@ -6,6 +6,10 @@ https://www.figma.com/design/v4nnQdimqyJt2Y2oqyhanl/ClouDub?node-id=0-1&p=f&t=rT
 
 https://youtu.be/O8ivm7403rk?si=55nsaDa_lvKEjFWI
 
+## Shadcn UI
+
+https://youtu.be/wcTzlJi2Oz4?si=bkbwoOXKilFkqsEs
+
 ## Kom i gang 💻
 
 For at køre lokalt: `pnpm dev`
