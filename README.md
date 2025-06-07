@@ -12,12 +12,11 @@ For at køre lokalt: `pnpm dev`
 
 ## Mappestrukturen 📁
 
-* `/app` indeholder ruter, komponenter og logik til applikationen
+`/` (root) indeholder konfigurationsfiler såsom `next.config` og miljøvariable
 
-  * `/lib` indeholder hjælperfunktioner o.l.
+`/app` indeholder ruter, komponenter og logik til applikationen
 
-  * `/ui/` indeholder UI komponenter 
+`/app/lib` indeholder hjælperfunktioner o.l.
 
-* `/public` indeholder statiske assets såsom billeder
+`/public` indeholder statiske assets såsom billeder og favicon.ico
 
-* `/` (root) indeholder konfigurationsfiler såsom `next.config` og `.env`
