@@ -12,7 +12,7 @@ For at køre lokalt: `pnpm dev`
 
 ## Mappestrukturen 📁
 
-`/` (root) indeholder konfigurationsfiler såsom `next.config` og miljøvariable
+`/` (root) indeholder konfigurationsfiler såsom `next.config` og miljøvariable `.env`
 
 `/app` indeholder ruter, komponenter og logik til applikationen
 
